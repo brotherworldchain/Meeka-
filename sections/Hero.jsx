@@ -49,7 +49,7 @@ const Hero = () => (
       >
         <div className="absolute w-full h-[300px] hero-gradient rounded-tl-[140px] z-[0] sm:-top-[20px] -top-[10px]" />
         <img
-          src="https://res.cloudinary.com/dcb4ilgmr/image/upload/v1711814309/utilities/WhatsApp_Image_2024-03-30_at_14.49.12_01195a5c_omsbwt.jpg"
+          src="https://res.cloudinary.com/dfwdzot6l/image/upload/v1742799747/gradient-futuristic-background-with-spheres_23-2149110136_puutck.avif"
           alt="cover"
           className="w-full sm:h-[500px] h-[350px] object-cover rounded-tl-[140px] z-10 relative"
         />
