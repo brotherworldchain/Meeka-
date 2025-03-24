@@ -55,7 +55,8 @@ const NavBar = () => {
                   // href="mailto:info@corebicle.com"
                   className="hover:bg-black text-white bg-[#320e33] rounded-lg  py-2 px-10 sm:p-4 font-medium"
                 >
-                  Download Our Whitepaper
+                  {/* Download Our Whitepaper */}
+                  Meeka The Husky – The Sassiest Dog on Solana!
                 </button>
               </li>
             </ul>
